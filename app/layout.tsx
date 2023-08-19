@@ -23,6 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="!scroll-smooth">
+      <link rel="icon" href="/favicon.ico"></link>
       <Script src="https://www.googletagmanager.com/gtag/js?id=G-8T63Q59094" />
       <Script id="google-analytics">
         {`

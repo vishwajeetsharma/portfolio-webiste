@@ -63,7 +63,7 @@ export const experiencesData = [
     title: "Customer Service Executive",
     location: "Concentrix Daksh Services India Pvt. Ltd.",
     description:
-      "I studied my 10th and 12th Grade from CBSE GBSSS Baprola. I had a IT as additional subject which made my interest in Programming.",
+      "I worked at concentrix as a customer service executive for more than 10 months. I was responsible for solving customer queries and providing them with the best possible solution.",
     icon: React.createElement(CgWorkAlt),
     date: "June 2022 - April 2023",
   },
@@ -80,21 +80,21 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Test1",
+    title: "Kitabi Duniya",
     description:
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "Test2",
+    title: "ProGrafix",
     description:
       "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Test3",
+    title: "Portfolio",
     description:
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
